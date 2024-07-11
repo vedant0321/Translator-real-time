@@ -1,0 +1,6 @@
+import os
+import pygame
+from gtts import gTTS
+import streamlit as st
+import speech_recognition as sr
+from googletrans import LANGUAGES, Translator
